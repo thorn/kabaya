@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">kabaya</string>
+    <string name="save_preferences_button_text">Save</string>
+    <string name="sms_permission_granted_notice">SMS permissions granted</string>
+    <string name="please_grant_sms_permissions_notice">Please grant the SMS permissions so the program can work properly.</string>
+    <string name="call_permission_granted_notice">Call permissions granted</string>
+    <string name="please_grant_call_permissions_notice">Please grant the Call log permissions so the program can work properly.</string>
+    <string name="telegram_bot_token_label">Telegram Bot Token</string>
+    <string name="slot_1_telegram_id_label">Slot 1 Telegram ID</string>
+    <string name="slot_2_telegram_id_label">Slot 2 Telegram ID</string>
+    <string name="slot_1_name_label">Name</string>
+    <string name="slot_2_name_label">Name</string>
+    <string name="settings_saved_toast_text">Settings saved!</string>
+    <string name="please_allow_sms_permissions_toast_text">Please allow sms permissions!</string>
+    <string name="please_allow_call_permissions_toast_text">Please grand Call screening role!</string>
+</resources>

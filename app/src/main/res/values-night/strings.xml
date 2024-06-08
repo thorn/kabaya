@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telegram_bot_token_hint">Telegram bot token</string>
+</resources>
